@@ -24,7 +24,7 @@
 ### 🧰 Favorite Tools
 - VS Code  
 - Cursor 
-- GitHub Actions  
+- GitHub 
 - Figma  
 
 ---
