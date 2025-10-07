@@ -23,7 +23,6 @@
 ### 🌍 Contact
 
 - 📧 **Email:** [environmentlocal.html@gmail.com](mailto:environmentlocal.html@gmail.com)  
-- 💼 **LinkedIn:** *(eklemek istersen link verebilirim)*  
 
 ---
 
