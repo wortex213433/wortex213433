@@ -1,16 +1,32 @@
-## Hi there 👋
 
-<!--
-**wortex213433/wortex213433** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">💻 Full-Stack Web Developer | CCNA Certified</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tech Stack
+
+- 🧠 **Languages:** JavaScript, Python, PHP, HTML, CSS  
+- ⚙️ **Backend:** Node.js, Express  
+- 🎨 **Frontend:** React, Next.js  
+- 🗄️ **Database:** MongoDB  
+- 🌐 **Others:** REST APIs, Git, Linux, Networking (CCNA)
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wortex213433&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+---
+
+### 🌍 Contact
+
+- 📧 **Email:** [environmentlocal.html@gmail.com](mailto:environmentlocal.html@gmail.com)  
+- 💼 **LinkedIn:** *(eklemek istersen link verebilirim)*  
+
+---
+
+<p align="center">
+  ⚡ <b>“Code. Create. Connect.”</b> ⚡  
+</p>
